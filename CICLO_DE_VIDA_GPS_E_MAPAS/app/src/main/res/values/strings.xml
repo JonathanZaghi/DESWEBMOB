@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CICLO_DE_VIDA_GPS_E_MAPAS</string>
+    <string name="action_settings">Settings</string>
+    <string name="no_gps_no_app">SEM GPS NAO ROLA!</string>
+</resources>
